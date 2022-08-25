@@ -1,7 +1,7 @@
 # :blue_book: Overview
 
 - Used Flutter with Shared preferences to store offline version of data locally on the phone. 
-- Made my own icons with colors that match the app's style for better UI and user experience.
+- Made my own [icons](https://github.com/Michael-M-aher/Weather-App/blob/main/weather_app/assets/images) with colors that match the app's style for better UI and user experience.
 
 
 # :bar_chart: Data Sorce
