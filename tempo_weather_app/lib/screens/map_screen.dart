@@ -31,6 +31,7 @@ class _MapScreenState extends State<MapScreen> {
         size: 50,
         color: AppColors.mycyan,
       ),
+      showCurrentLocationPointer: false,
       searchBarBackgroundColor: AppColors.myDark,
       searchBarTextColor: AppColors.mycyan,
       loadingWidget: const LoadingWidget(),
