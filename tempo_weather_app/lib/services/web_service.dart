@@ -63,7 +63,7 @@ class WeatherWebService {
         'units': 'metric',
         'timesteps': '1h',
         'fields':
-            'temperature,humidity,windSpeed,precipitationProbability,sunriseTime,sunsetTime,weatherCode',
+            'temperature,humidity,windSpeed,precipitationProbability,weatherCode',
         'location': '$lat,$lon'
       });
       // Response response1 =
