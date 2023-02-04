@@ -37,8 +37,8 @@ dependencies:
   flutter_onboarding_slider: ^1.0.8
   font_awesome_flutter: ^10.1.0
   google_fonts: ^3.0.1
-  intl: ^0.17.0
-  location_picker_flutter_map: ^1.1.5
+  intl: ^0.18.0
+  location_picker_flutter_map: ^1.2.0
   lottie: ^2.0.0
   meta: ^1.8.0
   shared_preferences: ^2.0.15

@@ -26,7 +26,11 @@ class _MapScreenState extends State<MapScreen> {
         backgroundColor: MaterialStateProperty.all(AppColors.myDark),
       ),
       selectLocationTextColor: AppColors.mylightGrey,
-      markerIconColor: AppColors.mycyan,
+      markerIcon: const Icon(
+        Icons.location_on,
+        size: 50,
+        color: AppColors.mycyan,
+      ),
       searchBarBackgroundColor: AppColors.myDark,
       searchBarTextColor: AppColors.mycyan,
       loadingWidget: const LoadingWidget(),
